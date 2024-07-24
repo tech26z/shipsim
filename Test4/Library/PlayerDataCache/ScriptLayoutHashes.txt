@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-E:/shipsim/webgl
+H:/shipsim/webgl
 SceneListBegin?
 Assets/Scene1.unity
 SceneListEnd?
