@@ -12,7 +12,7 @@ public class wheelIndi : MonoBehaviour {
 	void Start () {
 
         
-        GameObject wheelIndi = GameObject.Find("wheelIndi2");
+        GameObject wheelIndi = GameObject.Find("innerBridge/wheelIndi2");
         GameObject wheel = GameObject.FindGameObjectWithTag("wheel");
         wheelController =  wheel.GetComponent<WheelController>();
         //green
